@@ -15,7 +15,7 @@ git clone https://github.com/PocoF3Releases/vendor_xiaomi_alioth.git vendor/xiao
 git clone https://github.com/PocoF3Releases/vendor_xiaomi_sm8250-common.git vendor/xiaomi/sm8250-common ;
 git clone https://github.com/PocoF3Releases/kernel_xiaomi_sm8250.git kernel/xiaomi/sm8250 ;
 git clone https://github.com/Evolution-X/hardware_xiaomi.git hardware/xiaomi ;
-
+git clone https://github.com/Sanjivns/packages_resources_devicesettings.git packages/resources/devicesettings
 
 # Set up build environment
 export BUILD_USERNAME=Sanji
