@@ -20,7 +20,7 @@ git clone https://github.com/Sanjivns/packages_resources_devicesettings.git pack
 
 # Source the build environment setup script
 source build/envsetup.sh
-
+m clean
 export WITH_GAPPS=true
 # Select the build configuration
 lunch blaze_alioth-user
